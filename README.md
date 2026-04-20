@@ -3,53 +3,52 @@
 This repositpry contains all my C programs.
 Follow this order to understand my learning journey.
 
-C Programming Full Course for free ⚙️
-by Bro Code
-Link: https://youtu.be/xND0t1pr3KY?si=wCqliCQFzpDcZfPJ
+**Course Link:** [Bro Code C Full Course](https://youtu.be/xND0t1pr3KY)
 
-(00:09:53) (main) your first C program
-(00:15:04) variables ❎
-(00:35:06) format specifiers 🛠
-(00:44:15) arithmetic operators ➗
-(00:50:40) user input ⌨
-(01:06:54) ⭐ shopping cart program 🛒
-(01:15:38) ⭐ mad libs game 📖
-(01:25:25) math functions 🧮
-(01:30:40) ⭐ circle calculator program ⚪
-(01:36:44) ⭐ compound interest calculator 💰
-(01:44:28) if statements 🤔
-(01:55:25) ⭐ weight converter 🏋
-(02:02:36) ⭐ temperature program 🌡
-(02:10:27) switches 💡
-(02:18:34) nested if statements 🎟
-(02:26:35) ⭐ calculator 🖩
-(02:34:23) logical operators ❗
-(02:41:49) functions 📞
-(02:51:45) return 🔙
-(03:00:05) variable scope 🏠
-(03:05:26) function prototypes 📌
-(03:10:31) while loops ♾
-(03:21:57) for loops 🔂
-(03:27:56) break & continue 🛑
-(03:30:16) nested loops ➿
-(03:40:00) random numbers 🎲
-(03:46:01) ⭐ number guessing game ↕
-(03:53:30) ⭐ rock paper scissors 🗿 📄 ✂
-(04:05:40) ⭐ banking program 💵
-(04:21:11) arrays 🗃
-(04:32:17) arrays and user input ➡
-(04:37:56) 2D arrays ⬜
-(04:46:03) arrays of strings 🧵
-(04:58:44) ⭐ quiz game 💯
-(05:13:50) ternary operator ❓
-(05:21:58) typedef 📛
-(05:27:02) enums 📅
-(05:35:54) structs 📦
-(05:48:08) arrays of structs 🗄
-(05:54:48) pointers 👈
-(06:02:55) write files ✍
-(06:08:50) read files 📖
-(06:15:14) malloc 🏢
-(06:24:46) calloc 🧹
-(06:31:33) realloc 🚢
-(06:43:23) ⭐ digital clock ⌚
+### 📚 Learning Roadmap
+1. (main) your first C program
+2. variables 💹
+3. format specifiers 🛠️
+4. arithmetic operators ➗
+5. user input ⌨️
+6. ⭐ shopping cart program 🛒
+7. ⭐ mad libs game 📖
+8. math functions 📻
+9. ⭐ circle calculator program 🌐
+10. ⭐ compound interest calculator 💰
+11. if statements 🧐
+12. ⭐ weight converter ⚖️
+13. ⭐ temperature program 🌡️
+14. switches 💡
+15. nested if statements 🍱
+16. ⭐ calculator ⌨️
+17. logical operators ❗
+18. functions 📞
+19. return 🔙
+20. variable scope 🏠
+21. function prototypes 📌
+22. while loops 🔁
+23. for loops 🔄
+24. break & continue 🔴
+25. nested loops 🔄🔄
+26. random numbers 🎲
+27. ⭐ number guessing game ↕️
+28. ⭐ rock paper scissors 🎮
+29. ⭐ banking program 🏦
+30. arrays 🍱
+31. arrays and user input ➡️
+32. 2D arrays 📶
+33. arrays of strings 🧵
+34. ⭐ quiz game 💯
+35. ternary operator ❓
+36. typedef 📛
+37. enums 🗓️
+38. structs 📦
+39. arrays of structs 🗃️
+40. pointers 👉
+41. write files 📝
+42. read files 📖
+43. malloc 💾
+44. calloc 🧼
+45. realloc 🏗️
+46. ⭐ digital clock ⌚
