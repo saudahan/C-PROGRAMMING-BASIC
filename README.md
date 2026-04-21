@@ -5,8 +5,8 @@ Follow this order to understand my learning journey.
 
 **Course Link:** [Bro Code C Full Course](https://youtu.be/xND0t1pr3KY)
 
-### 🚂 Learning Express... 
-`[██████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒]` **45%** *Next Stop: While Loops (Lesson 22)*
+🧠 Knowledge Download... (Matrix Vibe)
+[██████████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 52% *Next Stop: Nested Loops (Lesson 25)*
 
 ---
 ### 📊 Progress Checklist
@@ -32,8 +32,8 @@ Follow this order to understand my learning journey.
 - [x] 20. variable scope 🏠 ✅
 - [x] 21. function prototypes 📌 ✅
 - [x] 22. while loops 🔁✅
-- [ ] 23. for loops 🔄
-- [ ] 24. break & continue 🔴
+- [x] 23. for loops 🔄 ✅
+- [x] 24. break & continue 🔴 ✅
 - [ ] 25. nested loops 🔄🔄
 - [ ] 26. random numbers 🎲
 - [ ] 27. ⭐ number guessing game ↕️
