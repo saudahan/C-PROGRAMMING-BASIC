@@ -31,7 +31,7 @@ Follow this order to understand my learning journey.
 - [x] 19. return 🔙 ✅
 - [x] 20. variable scope 🏠 ✅
 - [x] 21. function prototypes 📌 ✅
-- [ ] 22. while loops 🔁
+- [x] 22. while loops 🔁✅
 - [ ] 23. for loops 🔄
 - [ ] 24. break & continue 🔴
 - [ ] 25. nested loops 🔄🔄
