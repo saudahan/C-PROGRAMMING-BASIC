@@ -38,7 +38,8 @@ scanf(" %c", &grade);
 /*
 We need the space before %c because %c reads EVERYTHING, including the Enter key (\n).
 %d and %f automatically ignore spaces and newlines, so they don’t need it.
-*/
+%d and %f ignore leading whitespace (it skips any Enters or spaces before the number), it does not clear the whitespace that comes after the number.
+ thats why %c r age space dite hoise*/
 
 printf("%d\n", age);
 printf("%.2f\n", gpa);
