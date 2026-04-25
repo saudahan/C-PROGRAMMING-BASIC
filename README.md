@@ -6,7 +6,7 @@ Follow this order to understand my learning journey.
 **Course Link:** [Bro Code C Full Course](https://youtu.be/xND0t1pr3KY)
 
 🧠 Knowledge Download... (Matrix Vibe)
-[██████████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 52% *Next Stop: Nested Loops (Lesson 25)*
+[██████████████████████████████▒▒▒▒▒▒▒▒▒▒] *74% Next Stop: Ternary Operator (Lesson 35)*
 
 ---
 ### 📊 Progress Checklist
@@ -34,16 +34,16 @@ Follow this order to understand my learning journey.
 - [x] 22. while loops 🔁✅
 - [x] 23. for loops 🔄 ✅
 - [x] 24. break & continue 🔴 ✅
-- [ ] 25. nested loops 🔄🔄
-- [ ] 26. random numbers 🎲
-- [ ] 27. ⭐ number guessing game ↕️
-- [ ] 28. ⭐ rock paper scissors 🎮
-- [ ] 29. ⭐ banking program 🏦
-- [ ] 30. arrays 🍱
-- [ ] 31. arrays and user input ➡️
-- [ ] 32. 2D arrays 📶
-- [ ] 33. arrays of strings 🧵
-- [ ] 34. ⭐ quiz game 💯
+- [x] 25. nested loops 🔄🔄
+- [x] 26. random numbers 🎲
+- [x] 27. ⭐ number guessing game ↕️
+- [x] 28. ⭐ rock paper scissors 🎮
+- [x] 29. ⭐ banking program 🏦
+- [x] 30. arrays 🍱
+- [x] 31. arrays and user input ➡️
+- [x] 32. 2D arrays 📶
+- [x] 33. arrays of strings 🧵
+- [x] 34. ⭐ quiz game 💯
 - [ ] 35. ternary operator ❓
 - [ ] 36. typedef 📛
 - [ ] 37. enums 🗓️
