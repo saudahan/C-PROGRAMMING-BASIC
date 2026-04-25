@@ -10,7 +10,7 @@ for(int i = 0; i <= 10; i++){
     // delay korar jonno amra sleep term use kori but heading a windows.h clarify kore dite hobe.
     // and sleep er s capital Sleep be careful
     Sleep(1000);
-    printf("%d\n", i);
+    printf("%d\n", i); // \n dile line vertically nambe
 }
 
 // i++ dile ek ghor kore kore barbe similarly minus a kombe
@@ -18,7 +18,7 @@ for(int i = 0; i <= 10; i++){
 
 for(int i1 = 10; i1>= 0; i1--){
     Sleep(1000);
-    printf("%d\n", i1);
+    printf("%d ", i1); // \n na diye ekta space dile code horizontally jabe
 }
 
 printf("HAPPY NEW YEAR!");
