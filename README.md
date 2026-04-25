@@ -34,16 +34,16 @@ Follow this order to understand my learning journey.
 - [x] 22. while loops 🔁✅
 - [x] 23. for loops 🔄 ✅
 - [x] 24. break & continue 🔴 ✅
-- [x] 25. nested loops 🔄🔄
-- [x] 26. random numbers 🎲
-- [x] 27. ⭐ number guessing game ↕️
-- [x] 28. ⭐ rock paper scissors 🎮
-- [x] 29. ⭐ banking program 🏦
-- [x] 30. arrays 🍱
-- [x] 31. arrays and user input ➡️
-- [x] 32. 2D arrays 📶
-- [x] 33. arrays of strings 🧵
-- [x] 34. ⭐ quiz game 💯
+- [x] 25. nested loops 🔄🔄 ✅
+- [x] 26. random numbers 🎲 ✅
+- [x] 27. ⭐ number guessing game ↕️ ✅
+- [x] 28. ⭐ rock paper scissors 🎮 ✅
+- [x] 29. ⭐ banking program 🏦 ✅
+- [x] 30. arrays 🍱 ✅
+- [x] 31. arrays and user input ➡️ ✅
+- [x] 32. 2D arrays 📶 ✅
+- [x] 33. arrays of strings 🧵 ✅
+- [x] 34. ⭐ quiz game 💯 ✅
 - [ ] 35. ternary operator ❓
 - [ ] 36. typedef 📛
 - [ ] 37. enums 🗓️
