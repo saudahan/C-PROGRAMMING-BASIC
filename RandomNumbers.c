@@ -22,7 +22,8 @@ int randomNum = (rand() % 2) + 1;
 // int randomNum = (rand() % range) + last limit of what i want;
 
 // +1 cuz if i have 0 then it will add up and give me 1. and i wanted 1 and 2 
-// similarly ami 50 theke 100 er bhitore chai akn jodi rand random chuto no. chooce kore then +50 korle oita auto 50 r upor chole jabe.
+// similarly ami 50 theke 100 er bhitore chai akn jodi rand random chuto no.
+//  chooce kore then +50 korle oita auto 50 r upor chole jabe.
 
 int randomNum1 = (rand() % (max - min + 1)) + min;
 int randomNum2 = (rand() % (max - min + 1)) + min;
