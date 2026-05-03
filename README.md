@@ -5,9 +5,9 @@ Follow this order to understand my learning journey.
 
 **Course Link:** [Bro Code C Full Course](https://youtu.be/xND0t1pr3KY)
 
-🧠 Knowledge Download... (Matrix Vibe)
-[██████████████████████████████▒▒▒▒▒▒▒▒▒▒] *74% Next Stop: Ternary Operator (Lesson 35)*
-
+📊 Knowledge Download: Calibrated
+[██████████████████████████░░░░░░░░░░░░░] 67% Complete
+Next Objective: 32. 2D Arrays (The Grid Matrix)
 ---
 ### 📊 Progress Checklist
 - [x] 1. (main) your first C program ✅
@@ -41,9 +41,9 @@ Follow this order to understand my learning journey.
 - [x] 29. ⭐ banking program 🏦 ✅
 - [x] 30. arrays 🍱 ✅
 - [x] 31. arrays and user input ➡️ ✅
-- [x] 32. 2D arrays 📶 ✅
-- [x] 33. arrays of strings 🧵 ✅
-- [x] 34. ⭐ quiz game 💯 ✅
+- [ ] 32. 2D arrays 📶 
+- [ ] 33. arrays of strings 🧵 
+- [ ] 34. ⭐ quiz game 💯 
 - [ ] 35. ternary operator ❓
 - [ ] 36. typedef 📛
 - [ ] 37. enums 🗓️
