@@ -41,7 +41,7 @@ Next Objective: 33. Arrays of Strings 🧵
 - [x] 29. ⭐ banking program 🏦 ✅
 - [x] 30. arrays 🍱 ✅
 - [x] 31. arrays and user input ➡️ ✅
-- [ ] 32. 2D arrays 📶 
+- [x] 32. 2D arrays 📶 ✅
 - [ ] 33. arrays of strings 🧵 
 - [ ] 34. ⭐ quiz game 💯 
 - [ ] 35. ternary operator ❓
