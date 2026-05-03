@@ -5,9 +5,9 @@ Follow this order to understand my learning journey.
 
 **Course Link:** [Bro Code C Full Course](https://youtu.be/xND0t1pr3KY)
 
-📊 Knowledge Download: Calibrated
-[██████████████████████████░░░░░░░░░░░░░] 67% Complete
-Next Objective: 32. 2D Arrays (The Grid Matrix)
+📊 Progress Sync
+[████████████████████████████░░░░░░░░░░] 69.2% Complete
+Next Objective: 33. Arrays of Strings 🧵
 ---
 ### 📊 Progress Checklist
 - [x] 1. (main) your first C program ✅
